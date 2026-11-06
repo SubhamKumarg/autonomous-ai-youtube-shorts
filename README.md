@@ -1,10 +1,3 @@
-cd C:\YouTubeBot
-
-# 1. Create assets folder for your preview screenshots
-New-Item -ItemType Directory -Force -Path "assets" | Out-Null
-
-# 2. Write the gorgeous professional README.md
-@'
 # 🎬 Autonomous AI YouTube Shorts Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
