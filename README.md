@@ -1,3 +1,4 @@
+
 # 🎬 Autonomous AI YouTube Shorts Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
@@ -14,11 +15,9 @@ An end-to-end, zero-cost autonomous content creation and publishing pipeline wri
 
 This project is engineered to stop the scroll by mimicking top-tier professional short-form content creators:
 
-> **🎯 Drop your sample video screenshots inside the `assets/` folder to showcase them here!**
-
 | ⚡ Word-by-Word Yellow Captions | 📊 Audio-Reactive Equalizer & Ken Burns |
 | :---------------------------------: | :-------------------------------------: |
-| ![Caption Preview](assets/preview-caption.png) | ![Equalizer Preview](assets/preview-equalizer.png) |
+| ![Caption Preview](https://raw.githubusercontent.com/SubhamKumarg/autonomous-ai-youtube-shorts/main/assets/preview-caption.png) | ![Equalizer Preview](https://raw.githubusercontent.com/SubhamKumarg/autonomous-ai-youtube-shorts/main/assets/preview-equalizer.png) |
 | *Exact synchronization using `WordBoundary` timestamps with viral yellow text, black strokes & 3D drop shadows.* | *17-bar neon equalizer pulsing dynamically with speaker volume over cinematic photography.* |
 
 * **🎙️ Interactive 4-Beat Emotional Pitch Modulation (`edge-tts`):** The narration is split into 4 distinct emotional beats:
